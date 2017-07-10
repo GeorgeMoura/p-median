@@ -1,0 +1,3 @@
+GRASP_pmedian is a C++ metaheuristic based implementation of the p-median problem, classified as NP-complete graph problem. Here i use GRASP (Greedy Randomized Adaptive Search Procedure) to solve the non-capacitated version of the p-median.
+
+Created by George Moura, 2017, Federal University of Paraiba.
